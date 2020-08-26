@@ -31,9 +31,4 @@ public class Province extends LitePalSupport {
         this.provinceCode = provinceCode;
     }
 
-    public Province(int id, String provinceName, int provinceCode) {
-        this.id = id;
-        this.provinceName = provinceName;
-        this.provinceCode = provinceCode;
-    }
 }
